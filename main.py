@@ -32,3 +32,6 @@ def simulate_wonder_picks(num_simulations=1000):
 
 # Run the simulation
 simulate_wonder_picks(1000)
+
+print("quit while you can.")
+
